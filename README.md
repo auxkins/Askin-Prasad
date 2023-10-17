@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AskinPrasad
+# I'm Askin Prasad
+- 👋 
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on ...
